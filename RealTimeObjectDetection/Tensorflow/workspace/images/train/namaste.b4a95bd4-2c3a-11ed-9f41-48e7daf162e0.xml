@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>namaste.b4a95bd4-2c3a-11ed-9f41-48e7daf162e0.jpg</filename>
+	<path>C:\Semester material\3rd Sem\ProjectExhibition\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\namaste.b4a95bd4-2c3a-11ed-9f41-48e7daf162e0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Namaste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>145</ymin>
+			<xmax>450</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
